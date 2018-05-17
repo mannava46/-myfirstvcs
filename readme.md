@@ -1,1 +1,6 @@
-Demonstating git 
+		Demonstating git
+ 
+ Todo: Need to add branching strategy
+
+
+
